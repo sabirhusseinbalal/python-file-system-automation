@@ -24,7 +24,7 @@ progressing from beginner to advanced real-world projects.
 
 ## 🐍 Python Project Roadmap
 1. [Python Basics – Mini Projects](https://github.com/sabirhusseinbalal/python-basics-mini-projects)
-2. 👉 **File & Folder Automation with Python**
+2. 👉 **File & Folder Automation**
 3. [Web, Network & API Automation](https://github.com/sabirhusseinbalal/python-web-network-projects)
 4. [Image, Video & Media Processing](https://github.com/sabirhusseinbalal/python-media-processing)
 5. [Security, Encryption & Utilities](https://github.com/sabirhusseinbalal/python-security-utilities)
