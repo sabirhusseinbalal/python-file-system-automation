@@ -60,8 +60,6 @@ Each project is standalone, simple to understand, and demonstrates real-world Py
 python main.py
 ```
 
-### 4. Follow the on-screen prompts for each project.
-
 ## Notes
 ***All projects are beginner-friendly and focus on understanding Python file system operations.
 Some projects have default input/ folders with dummy files for practice.***
