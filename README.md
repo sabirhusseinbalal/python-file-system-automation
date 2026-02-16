@@ -11,8 +11,7 @@ Each project is standalone, simple to understand, and demonstrates real-world Py
 ## Projects
 
 1. **[JSON to CSV Converter](01_json_to_csv/)** - A Python script that converts JSON files into CSV format.  
-
-`2`- **[XML to JSON Converter](02_xml_to_json/)** - A Python script that converts XML files into JSON format.
+2. **[XML to JSON Converter](02_xml_to_json/)** - A Python script that converts XML files into JSON format.
 
 `3` - **[Merge CSV Files](03_merge_csv_files/)** - A Python script that merges multiple CSV files in a folder into a single CSV.
 
