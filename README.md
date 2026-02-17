@@ -36,7 +36,7 @@ Each project is standalone, simple to understand, and demonstrates real-world Py
    git clone https://github.com/Sabirhusseinbalal/python-file-system-automation.git
    ```
 
-### 2. Open a project folder and read the README.md inside for folder
+### 2. Open any project folder and read its README.md file for detailed instructions.
 
 ### 3. Run the script:
 ```
