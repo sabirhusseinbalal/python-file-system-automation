@@ -49,7 +49,7 @@ Some projects have default input/ folders with dummy files for practice.***
 
 ---
 
-## 🐍 Python Project Roadmap
+## 🐍 Python Projects Roadmap – From Basics to Advanced.
 1. [Python Basics – Mini Projects](https://github.com/sabirhusseinbalal/python-basics-mini-projects)
 2. 👉 **File & Folder Automation**
 3. [Web, Network & API Automation](https://github.com/sabirhusseinbalal/python-web-network-projects)
