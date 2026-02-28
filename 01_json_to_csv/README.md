@@ -13,8 +13,7 @@ Supports single JSON objects and lists of objects, and flattens nested data auto
 - Source: Any JSON file (single object or list of objects)  
 - Example Input
 
-```
-json
+```json
 {
   "id": 1,
   "name": "Sabir Hussain",
@@ -49,4 +48,5 @@ json
 │ └── data.csv
 ├── main.py
 └── README.md
+
 ```
