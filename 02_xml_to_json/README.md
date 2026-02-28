@@ -12,7 +12,7 @@ Supports both single-record and multi-record XML structures.
 ## Dataset
 - Example Input
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <users>
     <user>
@@ -60,4 +60,5 @@ Supports both single-record and multi-record XML structures.
 ```
 
 *Note:*
+
 **Nested XML elements are intentionally ignored in this version to keep the logic beginner-friendly.**
