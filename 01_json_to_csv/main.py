@@ -39,7 +39,8 @@ def convert(data):
         users.append(user)
 
     # Missing values will appear as NaN
-    df = pd.DataFrame(users).fillna(0)
+    # df = pd.DataFrame(users).fillna(0)
+    df = pd.DataFrame(users)
 
     csv_path = output_dir / "data.csv"
     df.to_csv(csv_path, index=False)
@@ -78,3 +79,4 @@ while True:
         print("Failed to parse JSON.")
     except Exception as e:
         print(f"Error: {e}")
+
