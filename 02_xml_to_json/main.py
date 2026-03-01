@@ -58,7 +58,7 @@ while True:
     if not user_path:
         path = Path(default_xml)
         if path.is_file():
-            print("No path provided — using default XML files")
+            print("No path provided — using default XML file")
         else:
             print("No file path provided, and the default XML file is missing.")
             continue
@@ -82,4 +82,5 @@ while True:
             print("Invalid file type. Only .xml allowed")
     else:
         print("File not found")
+
 
