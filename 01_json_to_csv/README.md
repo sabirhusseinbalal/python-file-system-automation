@@ -34,7 +34,7 @@ Supports single JSON objects and lists of objects, and flattens nested data auto
 ## Features
 - Handles single or multiple JSON records
 - Flattens nested dictionaries using dot notation
-- Converts lists into one-hot style columns
+- Converts list values into separate columns (one-hot style)
 - Automatically creates output folder
 - Safely overwrites existing CSV
 
@@ -50,3 +50,4 @@ Supports single JSON objects and lists of objects, and flattens nested data auto
 └── README.md
 
 ```
+
