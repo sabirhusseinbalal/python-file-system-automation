@@ -20,7 +20,7 @@ def convert(tree):
 
     #print(f"root.tag: {root.tag}, root.text: {root.text}, root.attrib: {root.attrib}, root.iter: {root.iter}, root.findall: {root.findall}")
 
-    datas = []
+    data = []
 
     # decide records
     if all(len(child) == 0 for child in root):
@@ -33,15 +33,15 @@ def convert(tree):
         for i in record:
             if len(i) == 0 and i.text:
                 d[i.tag] = i.text.strip()
-        datas.append(d)
+        data.append(d)
 
 
     file_path = output_dir / "data.json"
 
     # Save converted data into JSON file
     with open(file_path, 'w', encoding='utf-8') as f:
-        json.dump(datas, f, ensure_ascii=False, indent=4)
-    print(f"Json saved to {file_path} ({len(datas)} records)")
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print(f"Json saved to {file_path} ({len(data)} records)")
 
 
 while True:
@@ -82,6 +82,7 @@ while True:
             print("Invalid file type. Only .xml files are allowed.")
     else:
         print("File not found")
+
 
 
 
