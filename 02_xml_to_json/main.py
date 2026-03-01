@@ -79,8 +79,9 @@ while True:
                 except ET.ParseError:
                     print("Failed to parse XML")
         else:
-            print("Invalid file type. Only .xml allowed")
+            print("Invalid file type. Only .xml files are allowed.")
     else:
         print("File not found")
+
 
 
