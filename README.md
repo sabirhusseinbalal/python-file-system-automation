@@ -56,5 +56,5 @@ Some projects have default input/ folders with dummy files for practice.***
 4. [Image, Video & Media Processing](https://github.com/sabirhusseinbalal/python-media-processing)
 5. [Security, Encryption & Utilities](https://github.com/sabirhusseinbalal/python-security-utilities)
 6. [CLI, GUI & Small Apps](https://github.com/sabirhusseinbalal/python-cli-gui-apps)
-7. [Bots & Automation](https://github.com/sabirhusseinbalal/python-bots-automation)
+7. [Automation Systems & Bots](https://github.com/sabirhusseinbalal/python-automation-systems)
 8. [Advanced Python Projects](https://github.com/sabirhusseinbalal/python-advanced-projects)
