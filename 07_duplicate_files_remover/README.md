@@ -14,9 +14,6 @@ input/
 ├── document.pdf
 ```
 
-**Note:** ***Dummy files exist in the `test/` folder.  
-Copy them to the `input/` folder or provide a custom path, then run `main.py`***
-
 ## Modules Used
 - `pathlib` – for safe and modern file/folder path handling
 - `hashlib` – for generating file hashes to detect duplicate content
@@ -41,3 +38,4 @@ Copy them to the `input/` folder or provide a custom path, then run `main.py`***
 ├── main.py
 └── README.md
 ```
+
