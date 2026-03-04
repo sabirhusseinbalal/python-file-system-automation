@@ -1,3 +1,0 @@
-- Learn Python
-- Practice daily
-- Build projects

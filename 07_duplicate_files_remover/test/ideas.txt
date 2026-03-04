@@ -1,3 +1,0 @@
-Create a file organizer.
-Create a duplicate finder.
-Create useful tools.
