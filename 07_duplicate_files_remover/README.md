@@ -34,8 +34,8 @@ input/
 │   └── ...           # Add files to organize here
 ├── output/           
 │   └── ...           # Duplicates moved here
-├── test/             # Dummy data for testing
 ├── main.py
 └── README.md
 ```
+
 
