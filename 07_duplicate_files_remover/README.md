@@ -31,11 +31,12 @@ input/
 ```
 07_duplicate_files_remover/
 ├── input/
-│   └── ...           # Add files to organize here
+│   └── ...           # default folder
 ├── output/           
 │   └── ...           # Duplicates moved here
 ├── main.py
 └── README.md
 ```
+
 
 
