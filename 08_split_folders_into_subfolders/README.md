@@ -34,10 +34,11 @@ Copy them to the `input/` folder or provide a custom path, then run `main.py`.**
 ```
 08_split_folders_into_subfolders/
 ├── input/
-│   └── ...           # Add your files and folders here
+│   └── ...           # default folder
 ├── output/           
 │   └── ...           # Folders will be created here after running
 ├── test/             # Dummy data for testing
 ├── main.py
 └── README.md
+
 ```
