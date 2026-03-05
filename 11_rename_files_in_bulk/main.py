@@ -43,12 +43,9 @@ def bulk(path):
 
 while True:
     print()
-    confirm = input("This will rename files only inside the 'input' folder. Continue? (y/n or 'q' to quit): ").strip().lower()
+    confirm = input("This will rename files only inside the 'input' folder. Continue? (y/n): ").strip().lower()
     print()
 
-    if confirm == 'q':
-        print("Exiting...")
-        break
 
     if confirm == 'n':
         print("Cancelled.")
@@ -68,4 +65,4 @@ while True:
             print("Input folder is missing.")
             break
     else:
-        print("Please choose a valid option (y/n/q).")
+        print("Please choose a valid option (y/n).")
