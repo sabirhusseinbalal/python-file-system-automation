@@ -7,7 +7,6 @@ Learn to read, write, organize, analyze, backup, and search files with practical
 Each project is standalone, simple to understand, and demonstrates real-world Python file system operations.
 
 **Watch Full YouTube Playlist:**
-
 [https://youtube.com/playlist?list=PLBslpEV463BcAQ50bi086VwGWEwAjWjT2&si=mqZI944v7IQC8gfr]
 
 ---
