@@ -1,7 +1,7 @@
 # Rename Files in Bulk
 
 ## Description
-Renames all files inside the input/ folder automatically. Files are scanned recursively and renamed sequentially while preserving their original extensions. Processing is done in alphabetical order for consistent results.
+Renames all files inside the input/ folder automatically. Files are scanned recursively and renamed sequentially while preserving their original extensions.
 
 For example:
 ```
@@ -26,7 +26,6 @@ Copy them to the `input/` folder or provide a custom path, then run `main.py`.**
 
 ## Features
 - Recursive file scanning
-- Alphabetical processing
 - Safe rename inside `input/` folder only
 - Handles duplicate naming safely
 - Simple and clean logic
@@ -43,4 +42,5 @@ Copy them to the `input/` folder or provide a custom path, then run `main.py`.**
 
 ## Notes
 For safety, the script only renames files inside the `input/` folder.
+
 Replace the contents of `input/` before running the script.
