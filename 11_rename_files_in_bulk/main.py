@@ -6,37 +6,31 @@ BASE_DIR = Path(__file__).resolve().parent
 def bulk(path):
     
     record = 0
-    duplicate = 0.0
+    duplicate = 0
 
     
     files = sorted(
-    [file for file in path.rglob("*") if file.is_file()],
-    key=lambda f: f.name.lower()
+    [file for file in path.rglob("*") if file.is_file()]
     )
      
 
     # Rename all files in input folder sequentially
     for file in files:
-
-        record+=1
-        file = Path(file)
+        record += 1
         name = file.name
 
         new_name = file.with_name(f"file_{record}{file.suffix}")
+
         if name == new_name.name:
             print(f"Skipped (already correct): {name}")
             continue
 
-        
-        # Check for duplicates before renaming
-        if new_name.exists():
-            # Handles duplicate filenames safely
-            duplicate = record + 0.1
-            new_name = file.with_name(f"file_{duplicate}{file.suffix}")
-            file.rename(new_name)
-        else:
-            file.rename(new_name)
+        counter = 1
+        while new_name.exists():
+            new_name = file.with_name(f"file_{record}_{counter}{file.suffix}")
+            counter += 1
 
+        file.rename(new_name)
         print(f"File renamed from {name} to: {new_name.name}")
 
     if record == 0:
@@ -49,7 +43,7 @@ def bulk(path):
 
 while True:
     print()
-    confirm = input("This will rename files only inside the 'input' folder. Continue? (y/n or 'q' to quit): ").lower()
+    confirm = input("This will rename files only inside the 'input' folder. Continue? (y/n or 'q' to quit): ").strip().lower()
     print()
 
     if confirm == 'q':
