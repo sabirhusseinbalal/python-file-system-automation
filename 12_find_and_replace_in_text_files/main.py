@@ -73,6 +73,7 @@ def wordbased(data, path):
                     f.write(line)
 
             print("All occurrences replaced successfully.")
+            data = new_data
             break
 
         except Exception as e:
@@ -137,4 +138,5 @@ while True:
         except Exception:
             print("Failed to open file.")
     else:
+
         print("Invalid file or file not found. Please check the path and try again.")
