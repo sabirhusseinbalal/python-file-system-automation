@@ -20,6 +20,8 @@ Some nights you feel strong.
 Some nights you feel confused.
 Both nights are part of growth.
 ```
+
+The program uses **exact substring matching (case-sensitive)**.
 ---
 
 ## Modules Used
@@ -40,3 +42,4 @@ Both nights are part of growth.
 ├── main.py
 └── README.md
 ```
+
