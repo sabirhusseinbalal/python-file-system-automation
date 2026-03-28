@@ -5,6 +5,10 @@ Analyzes a .txt file and provides basic text statistics.
 
 Counts total lines, words, and characters in a simple and beginner-friendly way, This project focuses on file reading, string processing, and basic text analysis logic.
 
+**YouTube Video:**
+[[Text File Analyzer | Python File Automation (Project 5)](https://youtu.be/2xVvU0-qLnE?si=2BwC4WmhJG2XJbsl/)]
+
+
 ## Dataset
 - Source: Any .txt file
 - Default file: input/story.txt
