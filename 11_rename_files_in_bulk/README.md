@@ -3,6 +3,10 @@
 ## Description
 Renames all files inside the input/ folder automatically. Files are scanned recursively and renamed sequentially while preserving their original extensions.
 
+**YouTube Video:**
+[[Bulk Rename Files | Python File Automation (Project 11)](https://youtu.be/8tfWsiP4fZk?si=8Cy6jhLAIbbF851N/)]
+
+
 For example:
 ```
 input/
