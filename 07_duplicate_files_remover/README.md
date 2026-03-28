@@ -3,6 +3,10 @@
 ## Description
 Scans a folder for duplicate files based on their content and moves any duplicates into a separate output/ folder. The first copy of each file stays in its original location. This project uses file hashing to safely detect duplicates and helps keep folders clean and organized.
 
+**YouTube Video:**
+[[Duplicate Files Remover | Python File Automation (Project 7)](https://youtu.be/MyFHRKyRufQ?si=26zLZii320oyv9OD/)]
+
+
 For example:
 - Source: Any folder containing files.
 - Example files:
