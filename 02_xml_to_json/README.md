@@ -4,6 +4,9 @@
 Converts XML files into JSON format.
 Supports both single-record and multi-record XML structures.
 
+**YouTube Video:**
+[[Python File & Folder Automation – Project 1: JSON to CSV Converter](https://youtu.be/TddNLTvd86Q?si=2-B_g7U3l9j0eyHm/)]
+
 ## Modules Used
 - `pathlib` – for working with file paths
 - `xml.etree.ElementTree` – for parsing XML files
