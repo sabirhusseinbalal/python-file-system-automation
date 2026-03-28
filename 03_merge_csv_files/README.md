@@ -6,6 +6,10 @@ Merges multiple CSV files from a folder into a single CSV file
 Designed to handle files that contain the same columns, even if the column order is different,
 This project focuses on working with tabular data and ensuring structural consistency before combining datasets.
 
+**YouTube Video:**
+[[Merge CSV Files | Python File Automation (Project 3)](https://youtu.be/yQAfKZlj5sU?si=jB1vtiomgAPwV2J7/)]
+
+
 ## Modules Used
 - `pathlib` – for handling file paths
 - `pandas` – for reading, concatenating, and writing CSV files
