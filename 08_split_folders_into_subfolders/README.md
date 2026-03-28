@@ -3,6 +3,10 @@
 ## Description
 Splits all files from a folder, including nested ones, into multiple subfolders in output/. Each subfolder has a fixed number of files, duplicates are renamed automatically, and the output folder is cleared before running.
 
+**YouTube Video:**
+[[Split Folder into Subfolders | Python File Automation (Project 8)](https://youtu.be/TzdtwAlfTLw?si=raRvg2b0Ra0hcKEK/)]
+
+
 For example:
 - Input folder contains 34 files → Output:
 
