@@ -3,6 +3,11 @@
 ## Description
 Extracts a ZIP file into the output/ folder. A custom ZIP file path can be provided, or the default ZIP file will be used. Old output is safely deleted before extracting.
 
+
+**YouTube Video:**
+[[Extract Zip Files | Python File Automation (Project 10)](https://youtu.be/wE6EjHfjZYU?si=Kgp1M82GoBhECPDn/)]
+
+
 For example:
 - `data.zip` → Extracted into `output/`
 
