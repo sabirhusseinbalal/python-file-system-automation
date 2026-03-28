@@ -3,6 +3,10 @@
 ## Description
 Edits text files in two ways: line-based editing (change a specific line) and word-based replacement (replace all occurrences of a word).
 
+**YouTube Video:**
+[[Replace Text in File | Python File Automation (Project 12)](https://youtu.be/qbD9hXG-NHc?si=g3yXZYpmj8BSP82W/)]
+
+
 for example:
 ```
 Some days you feel strong.
