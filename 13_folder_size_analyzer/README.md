@@ -3,10 +3,6 @@
 ## Description
 Analyzes the total size and number of files in a folder, including all nested files and subfolders, and prints a human-readable size (Bytes, KB, MB, etc.).
 
-**YouTube Video:**
-[[Folder Size Analyzer | Python File Automation (Project 13)](https://youtu.be/0hrd1-wOpdI?si=qZsoWEcikeut2noO/)]
-
-
 for example:
 ```
 Enter full folder path (or 'q' to quit): input
@@ -16,6 +12,10 @@ Total Files: 32
 Total Size: 1.43 KB
 ```
 ---
+
+**YouTube Video:**
+[[Folder Size Analyzer | Python File Automation (Project 13)](https://youtu.be/0hrd1-wOpdI?si=qZsoWEcikeut2noO/)]
+
 
 ## Modules Used
 - `pathlib` – modern path handling
