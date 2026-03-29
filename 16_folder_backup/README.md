@@ -3,6 +3,11 @@
 ## Description
 Creates a full backup of a folder. It copies all files, subfolders, and empty folders while preserving the original folder structure. The original folder remains unchanged.
 
+
+**YouTube Video:**
+[[Folder Backup Tool | Python File Automation (Project 16)](https://youtu.be/aPfG9R5U3P8?si=6AgI2CaL53TF-oyw/)]
+
+
 It copies:
 - All files
 - All subfolders
