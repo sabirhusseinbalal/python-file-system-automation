@@ -3,6 +3,11 @@
 ## Description
 Searches and filters files in a folder in multiple ways. You can filter by extension, name, size, or search inside file content. The tool works recursively and shows relative paths and file sizes.
 
+
+**YouTube Video:**
+[[Search & Filter Files | Python File Automation (Project 18)](https://youtu.be/yYmbsQiL8AU?si=zunsKZxt4aN8nt-c/)]
+
+
 ## Modules Used
 - `pathlib` – handle file paths
 
