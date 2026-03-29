@@ -3,6 +3,11 @@
 ## Description
 Monitors a folder and shows file changes in real time. It detects created, deleted, modified, and moved files. The program runs continuously until stopped manually.
 
+
+**YouTube Video:**
+[[Folder Monitor | Python File Automation (Project 15)](https://youtu.be/6jGcJnxQyLw?si=Sb7uFqlXzjdcrHkD/)]
+
+
 It detects:
 - Created files
 - Deleted files
