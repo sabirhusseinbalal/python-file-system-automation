@@ -3,10 +3,6 @@
 ## Description
 Organizes files from a folder into a clean output/ directory based on file type.
 
-**YouTube Video:**
-[[Folder Organizer | Python File Automation (Project 6)](https://youtu.be/dp-vFWskWrw?si=rn_EyxmeGBFdtemx/)]
-
-
 For example:
 - Images go to `img/`
 - Documents go to `doc/`
@@ -20,6 +16,10 @@ It helps turn messy folders into a structured directory automatically.
 
 **Note:** ***Dummy files exist in the `test/` folder.  
 Copy them to the `input/` folder or provide a custom path, then run `main.py`***
+
+**YouTube Video:**
+[[Folder Organizer | Python File Automation (Project 6)](https://youtu.be/dp-vFWskWrw?si=rn_EyxmeGBFdtemx/)]
+
 
 ## Modules Used
 - `pathlib`, `shutil`
