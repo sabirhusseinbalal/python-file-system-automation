@@ -3,6 +3,11 @@
 ## Description
 Checks file permissions inside a folder. It tells whether each file is readable, writable, and executable, scanning all files recursively.
 
+
+**YouTube Video:**
+[[File Permission Checker | Python File Automation (Project 17)](https://youtu.be/ht2ay6pb5Ek?si=Ylmwh9w-Qv-OmJOO/)]
+
+
 It tells whether each file is:
 
 - Readable
