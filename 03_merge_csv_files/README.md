@@ -7,7 +7,7 @@ Designed to handle files that contain the same columns, even if the column order
 This project focuses on working with tabular data and ensuring structural consistency before combining datasets.
 
 **YouTube Video:**
-[[Merge CSV Files | Python File Automation (Project 3)](https://youtu.be/yQAfKZlj5sU?si=jB1vtiomgAPwV2J7/)]
+[[Merge CSV Files | Python File Automation (Project 3)](https://youtu.be/yQAfKZlj5sU?si=6UnJ8IrC_o0eq6-r/)]
 
 
 ## Modules Used
