@@ -5,7 +5,7 @@ Converts XML files into JSON format.
 Supports both single-record and multi-record XML structures.
 
 **YouTube Video:**
-[[XML to JSON Converter | Python File Automation (Project 2)](https://youtu.be/TddNLTvd86Q?si=2-B_g7U3l9j0eyHm/)]
+[[XML to JSON Converter | Python File Automation (Project 2)](https://youtu.be/TddNLTvd86Q?si=-hb-BGVBmEIpXYs4/)]
 
 ## Modules Used
 - `pathlib` – for working with file paths
