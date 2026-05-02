@@ -5,7 +5,7 @@ Checks file permissions inside a folder. It tells whether each file is readable,
 
 
 **YouTube Video:**
-[[File Permission Checker | Python File Automation (Project 17)](https://youtu.be/ht2ay6pb5Ek?si=Ylmwh9w-Qv-OmJOO/)]
+[[File Permission Checker | Python File Automation (Project 17)](https://youtu.be/ht2ay6pb5Ek?si=2oWvrZF3ujq4TRBF/)]
 
 
 It tells whether each file is:
