@@ -5,7 +5,7 @@ Extracts a ZIP file into the output/ folder. A custom ZIP file path can be provi
 
 
 **YouTube Video:**
-[[Extract Zip Files | Python File Automation (Project 10)](https://youtu.be/wE6EjHfjZYU?si=Kgp1M82GoBhECPDn/)]
+[[Extract Zip Files | Python File Automation (Project 10)](https://youtu.be/wE6EjHfjZYU?si=pPoI3hNGpJQT9E_E/)]
 
 
 For example:
