@@ -5,7 +5,7 @@ Searches and filters files in a folder in multiple ways. You can filter by exten
 
 
 **YouTube Video:**
-[[Search & Filter Files | Python File Automation (Project 18)](https://youtu.be/yYmbsQiL8AU?si=zunsKZxt4aN8nt-c/)]
+[[Search & Filter Files | Python File Automation (Project 18)](https://youtu.be/yYmbsQiL8AU?si=FnHyqCaSx7AmEuRa/)]
 
 
 ## Modules Used
