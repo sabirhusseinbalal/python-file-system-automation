@@ -9,7 +9,7 @@ Splits a .txt file into multiple smaller text files based on a user-defined numb
 This project focuses on file reading, writing, and controlled data chunking
 
 **YouTube Video:**
-[[Split Files by Number of Lines | Python File Automation (Project 4)](https://youtu.be/r5J1NrahTVY?si=5vLtgdHssL9wjnP/)]
+[[Split Files by Number of Lines | Python File Automation (Project 4)](https://youtu.be/r5J1NrahTVY?si=o3n0_WULdQqzZqmn/)]
 
 
 ## Modules Used
