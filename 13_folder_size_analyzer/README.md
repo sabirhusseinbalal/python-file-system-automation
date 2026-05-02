@@ -14,7 +14,7 @@ Total Size: 1.43 KB
 ---
 
 **YouTube Video:**
-[[Folder Size Analyzer | Python File Automation (Project 13)](https://youtu.be/0hrd1-wOpdI?si=qZsoWEcikeut2noO/)]
+[[Folder Size Analyzer | Python File Automation (Project 13)](https://youtu.be/0hrd1-wOpdI?si=18Yt3oLMwdJE3XvE/)]
 
 
 ## Modules Used
