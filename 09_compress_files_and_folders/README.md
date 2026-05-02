@@ -5,7 +5,7 @@ Compresses a file or an entire folder into a ZIP archive inside the output/ fold
 
 
 **YouTube Video:**
-[[Compress Files & Folders | Python File Automation (Project 9)](https://youtu.be/fn8EK-r5uj4?si=S0AoBDcmi-OkTUHq/)]
+[[Compress Files & Folders | Python File Automation (Project 9)](https://youtu.be/fn8EK-r5uj4?si=tlMm3x9RWZaiSVgY/)]
 
 
 for example:
