@@ -26,7 +26,7 @@ The program uses **exact substring matching (case-sensitive)**.
 
 
 **YouTube Video:**
-[[Replace Text in File | Python File Automation (Project 12)](https://youtu.be/qbD9hXG-NHc?si=g3yXZYpmj8BSP82W/)]
+[[Replace Text in File | Python File Automation (Project 12)](https://youtu.be/qbD9hXG-NHc?si=e77X3dYfwjnHxpEK/)]
 
 
 ## Modules Used
