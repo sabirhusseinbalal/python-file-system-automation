@@ -6,7 +6,7 @@ Supports single JSON objects and lists of objects, and flattens nested data auto
 
 
 **YouTube Video:**
-[[JSON to CSV Converter | Python File Automation (Project 1)](https://youtu.be/d3NOSTWauDo?si=GUKU1u5xfOoaDQB3/)]
+[[JSON to CSV Converter | Python File Automation (Project 1)](https://youtu.be/d3NOSTWauDo?si=eN_lZZdLn640bh8e/)]
 
 ## Modules Used
 - `pathlib` – for working with file paths
