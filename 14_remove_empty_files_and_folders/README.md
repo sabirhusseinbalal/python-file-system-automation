@@ -4,7 +4,7 @@
 Cleans up a folder by removing all empty files and empty folders. Works recursively, including all subfolders, and preserves non-empty files and folders.
 
 **YouTube Video:**
-[[Remove Empty Files & Folders | Python File Automation (Project 14)](https://youtu.be/X8L0MeL0wCM?si=AyUryHLJFTh78Of0/)]
+[[Remove Empty Files & Folders | Python File Automation (Project 14)](https://youtu.be/X8L0MeL0wCM?si=ttqBPJFv6R9j8K0F/)]
 
 
 **Note:** Only empty files and folders are removed; everything else remains intact.
