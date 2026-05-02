@@ -18,7 +18,7 @@ It helps turn messy folders into a structured directory automatically.
 Copy them to the `input/` folder or provide a custom path, then run `main.py`***
 
 **YouTube Video:**
-[[Folder Organizer | Python File Automation (Project 6)](https://youtu.be/dp-vFWskWrw?si=rn_EyxmeGBFdtemx/)]
+[[Folder Organizer | Python File Automation (Project 6)](https://youtu.be/dp-vFWskWrw?si=fRcmZ7S_1Cd2Vj-G/)]
 
 
 ## Modules Used
