@@ -5,7 +5,7 @@ Monitors a folder and shows file changes in real time. It detects created, delet
 
 
 **YouTube Video:**
-[[Folder Monitor | Python File Automation (Project 15)](https://youtu.be/6jGcJnxQyLw?si=Sb7uFqlXzjdcrHkD/)]
+[[Folder Monitor | Python File Automation (Project 15)](https://youtu.be/6jGcJnxQyLw?si=75JF2XbPMRfQvqvR/)]
 
 
 It detects:
